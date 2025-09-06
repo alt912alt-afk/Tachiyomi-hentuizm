@@ -1,0 +1,5 @@
+Tachiyomi-hentuizm/
+├─ app/src/main/java/eu/ali/hentuizm/Hentuizm.kt
+├─ .github/workflows/build.yml
+├─ build.gradle
+└─ settings.gradle
